@@ -1000,7 +1000,7 @@
   "components.Settings.RadarrModal.released": "Alliberat",
   "components.Settings.Notifications.NotificationsGotify.agentenabled": "Activa l'agent",
   "components.Settings.Notifications.NotificationsGotify.gotifysettingsfailed": "La configuració de notificacions de Gotify no s'ha pogut desar.",
-  "components.Settings.Notifications.NotificationsGotify.gotifysettingssaved": "La configuració de notificacions de Gotify s'ha desat correctament.",
+  "components.Settings.Notifications.NotificationsGotify.gotifysettingssaved": "La configuració de notificacions de Gotify s'ha desat correctament!",
   "components.Settings.Notifications.NotificationsGotify.validationTokenRequired": "Heu de proporcionar un testimoni d'aplicació",
   "components.UserProfile.UserSettings.UserGeneralSettings.discordIdTip": "El <FindDiscordIdLink>número d'ID de diversos dígits</FindDiscordIdLink> associat al vostre compte d'usuari de Discord",
   "components.ManageSlideOver.manageModalAdvanced": "Avançat",
