@@ -1039,5 +1039,6 @@
   "i18n.next": "Tjetra",
   "i18n.experimental": "Eksperimentale",
   "i18n.noresults": "S'ka rezultate.",
-  "i18n.notrequested": "Nuk është Kerkuar"
+  "i18n.notrequested": "Nuk është Kerkuar",
+  "components.Settings.SettingsAbout.appDataPath": "Direktoria e të dhënave"
 }
